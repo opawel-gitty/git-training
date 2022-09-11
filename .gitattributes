@@ -1,0 +1,5 @@
+auto
+*.txt eol=lf
+*.png binary
+*.jpt binary
+*.pdf binary
